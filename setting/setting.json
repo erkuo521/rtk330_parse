@@ -1,0 +1,24 @@
+{
+    "ntrip":[
+        {
+            "name":"ip",
+            "value":"58.215.20.43"
+        },
+        {
+            "name":"port",
+            "value":2201
+        },
+        {
+            "name":"mountPoint",
+            "value":"WX02"
+        },
+        {
+            "name":"username",
+            "value":"acenav"
+        },
+        {
+            "name":"password",
+            "value":"555555"
+        }
+    ]
+}
